@@ -23,6 +23,18 @@
       "first_name": "Bill",
       "email": "b.bailey@example.com",
       "id": 4
+    },
+    {
+      "last_name": "Smithy",
+      "first_name": "Fred",
+      "email": "f.smithy@example.com",
+      "id": 5
+    },
+    {
+      "last_name": "Smithy",
+      "first_name": "Fred",
+      "email": "f.smithy@example.com",
+      "id": 6
     }
   ],
   "tasks": [
